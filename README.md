@@ -1,2 +1,2 @@
 made a change
-another change has been made
+lets make a merge conflict
